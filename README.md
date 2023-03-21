@@ -1,6 +1,6 @@
 ### Olá, eu sou Lucas Nascimento
 ### Sou desenvolvedor web e criador de conteúdo
-### Seja bem-vindp!!
+### Seja bem-vindo!!
 
 - Atualmente, tenho me dedicado as tecnologias HTML, CSS, JAVASCRIPT E REACT. Além disso, sou graduando de Análise e desenvolvimento de sistemas e também faço cursos na plataforma Alura.
 - Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/lucas-nascimento-10496b254/
