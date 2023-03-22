@@ -2,7 +2,7 @@
 ### Sou desenvolvedor web e criador de conteúdo
 ### Seja bem-vindo!!
 
-- Atualmente, tenho me dedicado as tecnologias HTML, CSS, JAVASCRIPT E REACT. Além disso, sou graduando de Análise e desenvolvimento de sistemas e também faço cursos na plataforma Alura.
+- Atualmente, tenho me dedicado as tecnologias HTML, CSS, JAVASCRIPT E REACT. Além disso, sou graduando em Análise e desenvolvimento de sistemas e também faço cursos na plataforma Alura.
 - Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/lucas-nascimento-10496b254/
 - Também compartilho dicas lá no meu instagram: https://www.instagram.com/lucasnascimento.dev/
 
