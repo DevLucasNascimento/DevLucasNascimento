@@ -11,7 +11,7 @@ Também compartilho dicas lá no meu instagram: https://www.instagram.com/lucasn
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucasnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucasnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasnascimento&layout=compact&langs_count=180&theme=tokyonight&show_icons=true"/>
 </div>
 
